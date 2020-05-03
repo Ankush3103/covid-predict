@@ -1,5 +1,7 @@
 # Simple Linear Regression Project that predicts probability of testing positive for covid-19 on the basis of provided symptoms.
 
+![covid-image](https://ipo.org/wp-content/uploads/2020/04/covid-19-1330px.jpg)
+
 My attempt at building a simple program using ML and DS principles that predicts probability of being covid +ve based on your symptoms.
 
 This program can be useful to narrow down groups of people to be tested in regions were large-scale testing is not possible.
