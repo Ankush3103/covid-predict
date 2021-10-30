@@ -13,3 +13,4 @@ Data Set Containing symptoms has been taken from;
 1. https://github.com/saadidrees/dataset_covid_19_symptoms
 2. https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker/blob/master/data.csv
 
+(Not medical advice. consult a professional)
